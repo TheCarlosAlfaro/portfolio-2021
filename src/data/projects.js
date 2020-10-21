@@ -28,7 +28,7 @@ export const projects = [
    {
       id: "3fc82dac-f38e-4fe9-8527-656ec3d4bc6c",
       title: "A virtual production checklist using Gatsby.js",
-      rating: 4,
+      rating: 2,
       desc: "A virtual checklist that helps teams keep track of action items",
       totalMinutes: 8,
       postedAt: 1601824397274,
@@ -40,10 +40,10 @@ export const projects = [
    {
       id: "fbef5b6d-363e-4e41-b1f3-d941d7ee9b4d",
       title: "Budget calculator",
-      rating: 4,
+      rating: 3,
       desc:
          "A budget calculator that offer percentage and amount suggestion based on user income",
-      totalMinutes: 8,
+      totalMinutes: 3,
       postedAt: 1601824397274,
       githubUrl: "https://github.com/carlosalfarodev/budget-calculator",
       image: "na",

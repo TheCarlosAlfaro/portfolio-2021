@@ -1,9 +1,10 @@
 import React from "react";
 
-function Project() {
+function Project({ title, rating }) {
    return (
       <>
-         <h2 className="text-secondary">This is a project!</h2>
+         <h2 className="text-secondary">{title}</h2>
+         <span className="text-primary">{rating}</span>
       </>
    );
 }
