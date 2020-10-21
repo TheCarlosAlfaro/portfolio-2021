@@ -1,0 +1,5 @@
+.title {
+   @include media-breakpoint-down(xs) {
+      font-size: 48px;
+   }
+}
