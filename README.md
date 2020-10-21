@@ -1,1 +1,1 @@
-# The Ultimate Portfolio Site To Get Jobs/Clients
+# The Ultimate Portfolio Site For Getting Jobs/Clients
