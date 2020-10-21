@@ -1,0 +1,53 @@
+export const projects = [
+   {
+      id: "6d13c2ec-8cab-405e-be03-22faa3d98258",
+      title: "Implementing OAuth 2.0 On A React Native App",
+      rating: 5,
+      desc:
+         "A demonstration of how to implement authentication utilizing the OAuth protocol",
+      totalMinutes: 9,
+      postedAt: 1601653811891,
+      githubUrl: "https://github.com/carlosalfarodev/city-light-mobile-expo",
+      image: "na",
+      youtubeUrl: "na",
+      isActive: true,
+   },
+   {
+      id: "5511874c-3728-4153-b39a-c0dfde1bf9a7",
+      title: "Automation with Node.js (Uploading videos to Vimeo)",
+      rating: 4,
+      desc:
+         "A walkthrough of a Node.js script that uploads multiple videos with dynamic data to Vimeo",
+      totalMinutes: 8,
+      postedAt: 1601824397274,
+      githubUrl: "https://github.com/carlosalfarodev/node-vimeo-uploads",
+      image: "na",
+      youtubeUrl: "na",
+      isActive: true,
+   },
+   {
+      id: "3fc82dac-f38e-4fe9-8527-656ec3d4bc6c",
+      title: "A virtual production checklist using Gatsby.js",
+      rating: 4,
+      desc: "A virtual checklist that helps teams keep track of action items",
+      totalMinutes: 8,
+      postedAt: 1601824397274,
+      githubUrl: "https://github.com/carlosalfarodev/cl-prod-checklist",
+      image: "na",
+      youtubeUrl: "na",
+      isActive: true,
+   },
+   {
+      id: "fbef5b6d-363e-4e41-b1f3-d941d7ee9b4d",
+      title: "Budget calculator",
+      rating: 4,
+      desc:
+         "A budget calculator that offer percentage and amount suggestion based on user income",
+      totalMinutes: 8,
+      postedAt: 1601824397274,
+      githubUrl: "https://github.com/carlosalfarodev/budget-calculator",
+      image: "na",
+      youtubeUrl: "na",
+      isActive: true,
+   },
+];
