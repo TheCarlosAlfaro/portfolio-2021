@@ -6,7 +6,7 @@ export const projects = [
       desc:
          "A demonstration of how to implement authentication utilizing the OAuth protocol",
       totalMinutes: 9,
-      postedAt: 1101653811891,
+      postedAt: 1596610800000,
       githubUrl: "https://github.com/carlosalfarodev/city-light-mobile-expo",
       image: "Implementing OAuth 2.0 On A React Native App.jpg",
       youtubeUrl: "na",
@@ -20,7 +20,7 @@ export const projects = [
       desc:
          "A walkthrough of a Node.js script that uploads multiple videos with dynamic data to Vimeo",
       totalMinutes: 8,
-      postedAt: 1201824397274,
+      postedAt: 1553842800000,
       githubUrl: "https://github.com/carlosalfarodev/node-vimeo-uploads",
       image: "Automation with Node.js (Uploading videos to Vimeo).jpg",
       youtubeUrl: "na",
@@ -33,7 +33,7 @@ export const projects = [
       rating: 2,
       desc: "A virtual checklist that helps teams keep track of action items",
       totalMinutes: 8,
-      postedAt: 1301824397274,
+      postedAt: 1593241200000,
       githubUrl: "https://github.com/carlosalfarodev/cl-prod-checklist",
       image: "A virtual production checklist using Gatsby.js.jpg",
       youtubeUrl: "na",
@@ -47,7 +47,7 @@ export const projects = [
       desc:
          "A budget calculator that offers percentage and amount suggestions based on user income",
       totalMinutes: 3,
-      postedAt: 1401524593274,
+      postedAt: 1530169200000,
       githubUrl: "https://github.com/carlosalfarodev/budget-calculator",
       image: "Budget calculator.jpg",
       youtubeUrl: "na",
