@@ -12,7 +12,7 @@ export default function Bio() {
          </p>
          <p className="lead font-weight-normal text-center mb-4 mb-sm-5">
             <a
-               href="https://www.google.com"
+               href="https://github.com/carlosalfarodev"
                target="_blank"
                rel="noopener noreferrer"
                className="d-inline-block"
@@ -26,7 +26,7 @@ export default function Bio() {
                <span className="ml-2">Github</span>
             </a>
             <a
-               href="https://www.google.com"
+               href="https://www.linkedin.com/in/carlosalfarodev/"
                target="_blank"
                rel="noopener noreferrer"
                className="d-inline-block"
@@ -40,7 +40,7 @@ export default function Bio() {
                <span className="ml-2">LinkedIn</span>
             </a>
             <a
-               href="https://www.google.com"
+               href="https://www.youtube.com/c/CarlosAlfaro/videos"
                target="_blank"
                rel="noopener noreferrer"
                className="d-inline-block"

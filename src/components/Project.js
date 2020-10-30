@@ -4,6 +4,7 @@ import linkIcon from "../icon/link.svg";
 import { truncate } from "../utils/helpers";
 import formatDate from "date-fns/format";
 import getCssClasses from "classnames";
+import Tag from "./Tag";
 
 export default class Project extends React.Component {
    constructor(props) {
@@ -98,6 +99,11 @@ export default class Project extends React.Component {
                   <p>
                      {formatDate(this.props.project.postedAt, "MMM. d, yyyy")}
                   </p>
+                  <div className="tags">
+                     {this.props.project.tags.map((tag, index) => {
+                        return <Tag tag={tag} key={index} />;
+                     })}
+                  </div>
                </a>
 
                {this.props.isAdvanced && (

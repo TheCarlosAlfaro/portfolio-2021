@@ -45,9 +45,16 @@ export default class App extends React.Component {
                const lowerCasedInput = searchInput.toLowerCase();
                const projectTitle = project.title.toLowerCase();
                const projectDesc = project.desc.toLowerCase();
+               const projectTags = project.tags
+                  .map((tag) => {
+                     return tag.toLowerCase();
+                  })
+                  .join();
+
                return (
                   projectTitle.includes(lowerCasedInput) ||
-                  projectDesc.includes(lowerCasedInput)
+                  projectDesc.includes(lowerCasedInput) ||
+                  projectTags.includes(lowerCasedInput)
                );
             }),
          };
