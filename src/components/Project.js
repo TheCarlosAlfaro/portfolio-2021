@@ -49,7 +49,7 @@ export default class Project extends React.Component {
                      "text-underline": this.state.isHoveredOver,
                   })}
                >
-                  <h3 className="font-weight-normal">
+                  <h3 className="font-weight-normal text-secondary">
                      {this.props.project.title}
                   </h3>
                </a>
