@@ -1,5 +1,18 @@
 export const projects = [
   {
+    id: '6d13c2ec-8cab-405e-be03-22faa3d4397',
+    title: 'Markdown Preview',
+    rating: 4,
+    desc: 'Markdown previewer, using ReactJS',
+    totalMinutes: 1,
+    postedAt: 1623521125956,
+    githubUrl: 'https://github.com/carlosalfarodev/markdown-editor',
+    image: 'markdown-editor.png',
+    youtubeUrl: 'https://youtu.be/cxpwToalTFM',
+    isActive: true,
+    tags: ['JavaScript', 'React'],
+  },
+  {
     id: '6d13c2ec-8cab-405e-be03-22faa3d98284',
     title: 'Pomodoro App',
     rating: 5,
