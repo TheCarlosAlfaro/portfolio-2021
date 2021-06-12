@@ -5,7 +5,7 @@ export const projects = [
     rating: 4,
     desc: 'Pomodoro App, using ReactJS with browser notifications and sounds',
     totalMinutes: 1,
-    postedAt: 2096610600000,
+    postedAt: 1623456262927,
     githubUrl: 'https://github.com/carlosalfarodev/pomodoro',
     image: 'pomodoro.png',
     youtubeUrl: 'https://youtu.be/rw3lwreYHcI',
