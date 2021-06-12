@@ -2,7 +2,7 @@ export const projects = [
   {
     id: '6d13c2ec-8cab-405e-be03-22faa3d98284',
     title: 'Pomodoro App',
-    rating: 4,
+    rating: 5,
     desc: 'Pomodoro App, using ReactJS with browser notifications and sounds',
     totalMinutes: 1,
     postedAt: 1623456262927,
